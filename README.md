@@ -21,4 +21,4 @@ Welcome to my profile!
 
 📫 Linkedin: [Arnab Adhikary](https://www.linkedin.com/in/arnab-adhikary-80393822a/)
 
-👨‍💻 All of my projects are available at [Portfolio]([https://arnab-108.github.io/](https://arnab-108.github.io/)https://arnab-108.github.io/)
+👨‍💻 All of my projects are available at [Portfolio](https://arnab-108.github.io/)
