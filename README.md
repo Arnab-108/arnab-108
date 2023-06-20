@@ -19,7 +19,7 @@ Welcome to my profile!
 
 🌱 I’m currently learning Full-Stack Web Development From Masai School
 
-👨‍💻 All of my projects are available at [https://camo.githubusercontent.com/d6086cfc86c08b3cf9bafc49f7847da93e67d0bc49586084a3bf398947698d18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465](https://arnab-108.github.io/)
+👨‍💻 All of my projects are available at [Portfolio](https://arnab-108.github.io/)
 
 📫 Linkedin: [Arnab Adhikary](https://www.linkedin.com/in/arnab-adhikary-80393822a/)
 
