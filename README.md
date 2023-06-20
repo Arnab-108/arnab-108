@@ -19,4 +19,4 @@ Welcome to my profile!
 
 🌱 I’m currently learning Full-Stack Web Development From Masai School
 
-📫 How to reach me: [Arnab Adhikary](https://www.linkedin.com/in/arnab-adhikary-80393822a/)
+📫 Linkdin: [Linkdin](https://www.linkedin.com/in/arnab-adhikary-80393822a/)
