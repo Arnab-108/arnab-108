@@ -23,3 +23,5 @@ Welcome to my profile!
 
 📫 Linkedin: [Arnab Adhikary](https://www.linkedin.com/in/arnab-adhikary-80393822a/)
 
+👯 Reach me out at [arnabadhikary007@gmail.com](arnabadhikary007@gmail.com)
+
