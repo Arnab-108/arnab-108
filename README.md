@@ -26,14 +26,13 @@ Here are some ideas to get you started:
 <ul>
  <li>🌱 I’m currently learning Full-Stack Web Development From Masai School</li>
  <li>👨‍💻 All of my projects are available at https://arnab-108.github.io/</li>
-  <li>📫 Connec with me https://www.linkedin.com/in/arnab-adhikary-80393822a/</li>
 </ul>
 
 👯 Reach me out at [arnabadhikary007@gamil.com](arnabadhikary007@gmail.com)
 
 <br />
 
-## Connect with me
+## 📫Connect with me
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-80393822a/)
 
 <br />
