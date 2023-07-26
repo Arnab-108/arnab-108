@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  Hi 👋, I am Arnab Adhikary
 </h1>
 
-
+<p align="center" font-weight="bold" >An aspiring Full-Stack Developer ⚡</p>
 
 🌱 I’m currently learning Full-Stack Web Development From Masai School
 
