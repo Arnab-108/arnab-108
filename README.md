@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br />
 <h1 align="center">
- Tech Stacks
+ 🔭Tech Stacks
 </h1>
 <br /> 
  <h4 align="center">Frontend</h4>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </div>
 <br /> <br />
 <div align="center">
- <h1 align="center" >My Github Stats</h1>
+ <h1 align="center" >😄My Github Stats</h1>
  <br />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arnab-108&theme=radical&show_icons=true" />
