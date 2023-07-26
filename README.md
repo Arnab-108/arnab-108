@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -26,20 +26,17 @@ Here are some ideas to get you started:
 <ul>
  <li>🌱 I’m currently learning Full-Stack Web Development From Masai School</li>
  <li>👨‍💻 All of my projects are available at https://arnab-108.github.io/</li>
-  
+  <li>📫 Connec with me https://www.linkedin.com/in/arnab-adhikary-80393822a/</li>
 </ul>
 
 👯 Reach me out at [arnabadhikary007@gamil.com](arnabadhikary007@gmail.com)
 
+<br />
 
+## Connect with me
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-80393822a/)
 
-
-
-  <h1 align="center">
-    Connect with me
-  </h1>
-  <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-80393822a/)" />
-<br /> <br />
+<br />
 <h1 align="center">
  Tech Stacks
 </h1>
