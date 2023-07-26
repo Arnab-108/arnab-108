@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
- <p font-weight="bold">
    An aspiring Full-Stack Developer⚡
- </p>
-
 </p>
 
 🌱 I’m currently learning Full-Stack Web Development From Masai School
