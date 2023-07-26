@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ### Hi 👋, I am Arnab Adhikary
+ ## Hi 👋, I am Arnab Adhikary
 
 
 
