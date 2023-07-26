@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-80393822a/)
+
+
+### Tech Stacks:
+[![text](https://img.shields.io/badge/React-0077B5?style=for-the-badge&logo=react&logoColor=white)]
