@@ -28,12 +28,18 @@ Here are some ideas to get you started:
 
 👯 Reach me out at [arnabadhikary007@gmail.com](arnabadhikary007@gmail.com)
 
+<div >
+  <h1 align="center">
+    Connect with me
+  </h1>
 
-### Connect with me:
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-80393822a/)
-
-
-### Tech Stacks:
+  <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-80393822a/" />
+</div>
+<br /> <br />
+<h1 align="center">
+ Tech Stacks
+</h1>
+<br /> 
  <h4 align="center">Frontend</h4>
 <div  float="left" align="center">
   <img src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" />
@@ -45,14 +51,14 @@ Here are some ideas to get you started:
 
  <img src="https://camo.githubusercontent.com/0cbfd479cc112e053b3ce4ec8d4774714ed7bd8d0b766d8c5a0109b1edf61dfe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6368616b72612075692d2532333445443143352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72617569266c6f676f436f6c6f723d7768697465" />
 </div>
-
+<br />
 <h4 align="center">Backend</h4>
 <div float="left" align="center">
  <img src="https://camo.githubusercontent.com/a1eae878fdd3d1c1b687992ca74e5cac85f4b68e60a6efaa7bc8dc9883b71229/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" />
  <img src="https://camo.githubusercontent.com/7f73136d92799b19be179d1ed87b461120c35ed917c7d5ab59a7606209da7bd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" />
  <img src="https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" />
 </div>
-
+<br />
 <h4 align="center">Tools</h4>
 <div float="left" align="center">
  <img src="https://camo.githubusercontent.com/dfb4109b571fbeb03ce2fe6eefb9eb9a3ca63e618e57002cc4b17d784baea807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237" />
@@ -61,4 +67,15 @@ Here are some ideas to get you started:
  <img src="https://camo.githubusercontent.com/b47580b7e8e0b4ce9bb718070140318f72d316a0c88e0dd53a5ac4b0bdfc755e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" />
  <img src="https://camo.githubusercontent.com/80669e11bf3bc52895d6a03fb9745050bba5e0fdfecb2a6c6baea6d5dbbee275/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465" />
  <img src="https://camo.githubusercontent.com/870d2945e15dde83583f64ea1f3f4471702e45bf30fa884412da74cb7731ae42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666f722d7468652d6261646765266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465" />
+</div>
+<br /> <br />
+<div align="center">
+ <h1 align="center" >My Github Stats</h1>
+ <br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnab-108&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-108&layout=compact&theme=radical&show_icons=true" />
+</div>
+ <br />
+<img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=Arnab-108&theme=radical&show_icons=true" />
 </div>
