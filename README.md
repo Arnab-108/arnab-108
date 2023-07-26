@@ -35,13 +35,10 @@ Here are some ideas to get you started:
 
 
 
-<div >
   <h1 align="center">
     Connect with me
   </h1>
-
   <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-80393822a/)" />
-</div>
 <br /> <br />
 <h1 align="center">
  Tech Stacks
