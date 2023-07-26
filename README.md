@@ -21,19 +21,26 @@ Here are some ideas to get you started:
  <h4 align="center">An aspiring Full-Stack Developer⚡</h4>
 
 
+<br /> 
 
-🌱 I’m currently learning Full-Stack Web Development From Masai School
+<ul>
+ <li>🌱 I’m currently learning Full-Stack Web Development From Masai School</li>
+ <li>👨‍💻 All of my projects are available at https://arnab-108.github.io/</li>
+  
+</ul>
 
-👨‍💻 All of my projects are available at https://arnab-108.github.io/
+👯 Reach me out at [arnabadhikary007@gamil.com](arnabadhikary007@gmail.com)
 
-👯 Reach me out at [arnabadhikary007@gmail.com](arnabadhikary007@gmail.com)
+
+
+
 
 <div >
   <h1 align="center">
     Connect with me
   </h1>
 
-  <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-80393822a/" />
+  <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-adhikary-80393822a/)" />
 </div>
 <br /> <br />
 <h1 align="center">
