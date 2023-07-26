@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  Hi 👋, I am Arnab Adhikary
 </h1>
 
-<p align="center" weight="bold">
+<p stype="align:center;font-weight:700">
 An aspiring Full-Stack Developer⚡
 </p>
 
