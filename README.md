@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 
 ### Tech Stacks:
-[![text](https://img.shields.io/badge/React-0077B5?style=for-the-badge&logo=react&logoColor=white)]
+![text](https://img.shields.io/badge/React-0077B5?style=for-the-badge&logo=react&logoColor=white)
