@@ -74,7 +74,7 @@ Here are some ideas to get you started:
  <br />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arnab-108&theme=radical&show_icons=true,prs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-108&layout=compact&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-108&layout=compact&theme=radical&show_icons=true,prs" />
 </div>
  <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=Arnab-108&theme=radical&show_icons=true" />
