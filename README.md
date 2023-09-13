@@ -73,7 +73,7 @@ Here are some ideas to get you started:
  <h1 align="center" >😄My Github Stats</h1>
  <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnab-108&hide=contribs,prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnab-108&theme=radical&show_icons=true,prs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-108&layout=compact&theme=radical&show_icons=true" />
 </div>
  <br />
